@@ -1,0 +1,172 @@
+[
+  {
+    "Reading Taken": "02/26/2020 22:00:00",
+    "Total Confirmed": "81322",
+    "Change(Num)": "1322",
+    "Change(%)": "0.9",
+    "Total Deaths": "2770",
+    "Change(num)": "271",
+    "Recoveries": "30322",
+    "Source": "https://coronavirus.jhu.edu/map.html"
+  },
+  {
+    "Reading Taken": "02/27/2020 21:00:00",
+    "Total Confirmed": "82555",
+    "Change(Num)": "1233",
+    "Change(%)": "9.66",
+    "Total Deaths": "2810",
+    "Change(num)": "2930",
+    "Recoveries": "33252",
+    "Source": "https://coronavirus.jhu.edu/map.html"
+  },
+  {
+    "Reading Taken": "02/28/2020 13:40:00",
+    "Total Confirmed": "83774",
+    "Change(Num)": "1219",
+    "Change(%)": "10.23",
+    "Total Deaths": "2867",
+    "Change(num)": "3402",
+    "Recoveries": "36654",
+    "Source": "https://coronavirus.jhu.edu/map.html"
+  },
+  {
+    "Reading Taken": "02/29/2020 11:20:00",
+    "Total Confirmed": "85406",
+    "Change(Num)": "1632",
+    "Change(%)": "8.02",
+    "Total Deaths": "2933",
+    "Change(num)": "2943",
+    "Recoveries": "39597",
+    "Source": "https://coronavirus.jhu.edu/map.html"
+  },
+  {
+    "Reading Taken": "03/02/2020 10:10:00",
+    "Total Confirmed": "89197",
+    "Change(Num)": "3791",
+    "Change(%)": "14.01",
+    "Total Deaths": "3048",
+    "Change(num)": "5549",
+    "Recoveries": "45146",
+    "Source": "https://coronavirus.jhu.edu/map.html"
+  },
+  {
+    "Reading Taken": "03/04/2020 14:20:00",
+    "Total Confirmed": "94250",
+    "Change(Num)": "5053",
+    "Change(%)": "13.02",
+    "Total Deaths": "3214",
+    "Change(num)": "5880",
+    "Recoveries": "51026",
+    "Source": "https://coronavirus.jhu.edu/map.html"
+  },
+  {
+    "Reading Taken": "03/06/2020 20:10:00",
+    "Total Confirmed": "101601",
+    "Change(Num)": "7351",
+    "Change(%)": "9.48",
+    "Total Deaths": "3460",
+    "Change(num)": "4820",
+    "Recoveries": "55868",
+    "Source": "https://coronavirus.jhu.edu/map.html"
+  },
+  {
+    "Reading Taken": "03/07/2020 19:50:00",
+    "Total Confirmed": "105559",
+    "Change(Num)": "3958",
+    "Change(%)": "4.44",
+    "Total Deaths": "3555",
+    "Change(num)": "2486",
+    "Recoveries": "58354",
+    "Source": "https://coronavirus.jhu.edu/map.html"
+  },
+  {
+    "Reading Taken": "03/08/2020 21:40:00",
+    "Total Confirmed": "109811",
+    "Change(Num)": "4252",
+    "Change(%)": "4.01",
+    "Total Deaths": "3802",
+    "Change(num)": "2340",
+    "Recoveries": "60694",
+    "Source": "https://coronavirus.jhu.edu/map.html"
+  },
+  {
+    "Reading Taken": "03/09/2020 20:40:00",
+    "Total Confirmed": "113584",
+    "Change(Num)": "3773",
+    "Change(%)": "2.96",
+    "Total Deaths": "3996",
+    "Change(num)": "1802",
+    "Recoveries": "62496",
+    "Source": "https://coronavirus.jhu.edu/map.html"
+  },
+  {
+    "Reading Taken": "03/11/2020 08:10:00",
+    "Total Confirmed": "119132",
+    "Change(Num)": "5548",
+    "Change(%)": "5.24",
+    "Total Deaths": "4284",
+    "Change(num)": "3280",
+    "Recoveries": "65776",
+    "Source": "https://coronavirus.jhu.edu/map.html"
+  },
+  {
+    "Reading Taken": "03/12/2020 13:10:00",
+    "Total Confirmed": "127750",
+    "Change(Num)": "8618",
+    "Change(%)": "3.84",
+    "Total Deaths": "4717",
+    "Change(num)": "2531",
+    "Recoveries": "68307",
+    "Source": "https://coronavirus.jhu.edu/map.html"
+  },
+  {
+    "Reading Taken": "03/14/2020 15:40:00",
+    "Total Confirmed": "149292",
+    "Change(Num)": "21542",
+    "Change(%)": "5.46",
+    "Total Deaths": "5609",
+    "Change(num)": "3735",
+    "Recoveries": "72042",
+    "Source": "https://coronavirus.jhu.edu/map.html"
+  },
+  {
+    "Reading Taken": "03/15/2020 12:10:00",
+    "Total Confirmed": "156400",
+    "Change(Num)": "7108",
+    "Change(%)": "2.67",
+    "Total Deaths": "5833",
+    "Change(num)": "1926",
+    "Recoveries": "73968",
+    "Source": "https://coronavirus.jhu.edu/map.html"
+  },
+  {
+    "Reading Taken": "03/16/2020 12:40:00",
+    "Total Confirmed": "169387",
+    "Change(Num)": "12987",
+    "Change(%)": "4.44",
+    "Total Deaths": "6510",
+    "Change(num)": "3289",
+    "Recoveries": "77257",
+    "Source": "https://coronavirus.jhu.edu/map.html"
+  },
+  {
+    "Reading Taken": "03/17/2020 20:00:00",
+    "Total Confirmed": "195957",
+    "Change(Num)": "26570",
+    "Change(%)": "4.63",
+    "Total Deaths": "7868",
+    "Change(num)": "3583",
+    "Recoveries": "80840",
+    "Source": "https://coronavirus.jhu.edu/map.html"
+  },
+  {
+    "Reading Taken": "04/30/2020 08:30:00",
+    "Total Confirmed": "3260964",
+    "Change(Num)": "3065007",
+    "Change(%)": "1150.75",
+    "Total Deaths": "231808",
+    "Change(num)": "930270",
+    "Recoveries": "1011110",
+    "Source": "https://coronavirus.jhu.edu/map.html"
+  }
+]

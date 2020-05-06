@@ -1,0 +1,42 @@
+---
+Úrdráttur:
+---
+Ég valdi datasettið "Lögbýlaskrá 2019", breytti því í.xlsx,
+skráin var öll í rugli og erfið að skilja,
+lítið var hægt að fikta með gögnin.
+
+
+---
+Aðferð:
+---
+Ég valdi datasettið "Lögbýlaskrá 2019" (https://opingogn.is/dataset/logbylaskra) sem er um 18,536 línur, 
+ég stytti það niður í 50 línur til að geta unnið með það betur og fljótara, síðan breytti ég því úr .csv í .xlsx til að geta farið yfir það í excel.
+
+Þegar skráin var hlöðuð inn í R þá var hún öll í rugli (hún var nú þegar í rugli til að byrja með)
+
+
+---
+Niðurstöður:
+---
+Í skránni eru dálkanir: Sveitafélag, Heiti lögbýlis, Landnúmer, Eyðibýli, Eigandi/ÁbúandiEigandi/Ábúandi og Nafn.
+
+það eru sum göng sem maður veit ekkert hvað maður á að gera með og það er ekkert merkt,
+það eru engin nöfn fyrir dálkana og þeim er bara raðað inn í allar raðinar, í staðin fyrir að hafa það efst upp í skjalinu.
+
+Það eru engin gögn sem innihalda tölur nema fyrsta röðin en hún er bara "0000" og ekkert meir, svo það er ekki hægt að gera mikið með það, eins og að reikna meðaltal eða miðgildi.
+Sama með booleans þeir eru skrifaðir með "já" og "nei", svo ekki er mikið hægt að gera með það nema að convert-a því öllu í true/false booleans.
+
+
+---
+Ályktanir:
+---
+Það er mætti laga þetta datasett aðeins til og gera það meira aðgengilegt og hreint.
+Læsileikinn er fínn fyrir utan dálkamálið, eina sem er ekki alveg hreint er að í "Eigandi/ÁbúandiEigandi/Ábúandi" dálinum þá er skrifað: Á, E og ÁE, sem er auðvitað bara stytting á 
+nafni dálksins, en það er ekki svo augljóst fyrst.
+
+Tilgangurinn er góður og geymir mikið af fínum upplýsingum.
+
+Stærðin er risastór að 18,536 línur með um 14 dálka, það er hægt að minnka stærðina gríðalega með því að taka fyrstu 8 dálkana út úr settinu, og setja síðan eina línu á toppinum
+sem greinir hvað hver dálkur inniheldur.
+
+Það er mikið af endurtekningum t.d með dálkamálið, síðan eru bara aðrar endurtekningar sem er ekki hægt að forðast.

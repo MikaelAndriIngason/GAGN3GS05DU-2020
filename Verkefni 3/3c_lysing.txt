@@ -1,0 +1,2 @@
+Við vorum komin með gögn fyrir COVID-19 í verkefni 4, svo ég notaði það bara hér en ég breytti líka gögnunum frá xlsx í json.
+síðan í lið tvö að gera einfaldar skoðanir á gögnunum var líka gert í verkefni 4!
