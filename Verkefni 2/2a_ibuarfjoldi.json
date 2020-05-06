@@ -1,0 +1,744 @@
+{
+	"Höfuðborgarsvæðið": [{
+			"Sveitarfélagsnúmer": "Höfuðborgarsvæðið",
+			"Sveitarfélag": "",
+			"Fjöldi - 1 des 2018": "227962",
+			"Fjöldi - 1. des. 2019": "233027",
+			"Fjöldi - 1. feb. 2020": "233656",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "629",
+			"%": "0.27%"
+		},
+		{
+			"Sveitarfélagsnúmer": "0",
+			"Sveitarfélag": "Reykjavíkurborg",
+			"Fjöldi - 1 des 2018": "128681",
+			"Fjöldi - 1. des. 2019": "131146",
+			"Fjöldi - 1. feb. 2020": "131588",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "442",
+			"%": "0.34%"
+		},
+		{
+			"Sveitarfélagsnúmer": "1000",
+			"Sveitarfélag": "Kópavogsbær",
+			"Fjöldi - 1 des 2018": "36910",
+			"Fjöldi - 1. des. 2019": "37936",
+			"Fjöldi - 1. feb. 2020": "38067",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "131",
+			"%": "0.35%"
+		},
+		{
+			"Sveitarfélagsnúmer": "1100",
+			"Sveitarfélag": "Seltjarnarnesbær",
+			"Fjöldi - 1 des 2018": "4659",
+			"Fjöldi - 1. des. 2019": "4719",
+			"Fjöldi - 1. feb. 2020": "4703",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "-16",
+			"%": "-0.34%"
+		},
+		{
+			"Sveitarfélagsnúmer": "1300",
+			"Sveitarfélag": "Garðabær",
+			"Fjöldi - 1 des 2018": "16279",
+			"Fjöldi - 1. des. 2019": "16924",
+			"Fjöldi - 1. feb. 2020": "16978",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "54",
+			"%": "0.32%"
+		},
+		{
+			"Sveitarfélagsnúmer": "1400",
+			"Sveitarfélag": "Hafnarfjarðarkaupstaður",
+			"Fjöldi - 1 des 2018": "29787",
+			"Fjöldi - 1. des. 2019": "29986",
+			"Fjöldi - 1. feb. 2020": "29971",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "-15",
+			"%": "-0.05%"
+		},
+		{
+			"Sveitarfélagsnúmer": "1604",
+			"Sveitarfélag": "Mosfellsbær",
+			"Fjöldi - 1 des 2018": "11407",
+			"Fjöldi - 1. des. 2019": "12069",
+			"Fjöldi - 1. feb. 2020": "12105",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "36",
+			"%": "0.30%"
+		},
+		{
+			"Sveitarfélagsnúmer": "1606",
+			"Sveitarfélag": "Kjósarhreppur",
+			"Fjöldi - 1 des 2018": "239",
+			"Fjöldi - 1. des. 2019": "247",
+			"Fjöldi - 1. feb. 2020": "244",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "-3",
+			"%": "-1.21%"
+		}
+	],
+	"Suðurnes": [{
+			"Sveitarfélagsnúmer": "Suðurnes ",
+			"Sveitarfélag": "",
+			"Fjöldi - 1 des 2018": "27049",
+			"Fjöldi - 1. des. 2019": "27825",
+			"Fjöldi - 1. feb. 2020": "27937",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "112",
+			"%": "0.40%"
+		},
+		{
+			"Sveitarfélagsnúmer": "2000",
+			"Sveitarfélag": "Reykjanesbær",
+			"Fjöldi - 1 des 2018": "18882",
+			"Fjöldi - 1. des. 2019": "19423",
+			"Fjöldi - 1. feb. 2020": "19492",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "69",
+			"%": "0.36%"
+		},
+		{
+			"Sveitarfélagsnúmer": "2300",
+			"Sveitarfélag": "Grindavíkurbær",
+			"Fjöldi - 1 des 2018": "3397",
+			"Fjöldi - 1. des. 2019": "3508",
+			"Fjöldi - 1. feb. 2020": "3516",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "8",
+			"%": "0.23%"
+		},
+		{
+			"Sveitarfélagsnúmer": "2506",
+			"Sveitarfélag": "Sveitarfélagið Vogar",
+			"Fjöldi - 1 des 2018": "1288",
+			"Fjöldi - 1. des. 2019": "1308",
+			"Fjöldi - 1. feb. 2020": "1322",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "14",
+			"%": "1.07%"
+		},
+		{
+			"Sveitarfélagsnúmer": "2510",
+			"Sveitarfélag": "Suðurnesjabær",
+			"Fjöldi - 1 des 2018": "3482",
+			"Fjöldi - 1. des. 2019": "3586",
+			"Fjöldi - 1. feb. 2020": "3607",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "21",
+			"%": "0.59%"
+		}
+	],
+
+	"Vesturland": [{
+			"Sveitarfélagsnúmer": "Vesturland",
+			"Sveitarfélag": "",
+			"Fjöldi - 1 des 2018": "16547",
+			"Fjöldi - 1. des. 2019": "16666",
+			"Fjöldi - 1. feb. 2020": "16674",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "8",
+			"%": "0.05%"
+		},
+		{
+			"Sveitarfélagsnúmer": "3000",
+			"Sveitarfélag": "Akraneskaupstaður",
+			"Fjöldi - 1 des 2018": "7421",
+			"Fjöldi - 1. des. 2019": "7533",
+			"Fjöldi - 1. feb. 2020": "7527",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "-6",
+			"%": "-0.08%"
+		},
+		{
+			"Sveitarfélagsnúmer": "3506",
+			"Sveitarfélag": "Skorradalshreppur",
+			"Fjöldi - 1 des 2018": "58",
+			"Fjöldi - 1. des. 2019": "65",
+			"Fjöldi - 1. feb. 2020": "67",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "2",
+			"%": "3.08%"
+		},
+		{
+			"Sveitarfélagsnúmer": "3511",
+			"Sveitarfélag": "Hvalfjarðarsveit",
+			"Fjöldi - 1 des 2018": "650",
+			"Fjöldi - 1. des. 2019": "625",
+			"Fjöldi - 1. feb. 2020": "618",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "-7",
+			"%": "-1.12%"
+		},
+		{
+			"Sveitarfélagsnúmer": "3609",
+			"Sveitarfélag": "Borgarbyggð",
+			"Fjöldi - 1 des 2018": "3816",
+			"Fjöldi - 1. des. 2019": "3855",
+			"Fjöldi - 1. feb. 2020": "3867",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "12",
+			"%": "0.31%"
+		},
+		{
+			"Sveitarfélagsnúmer": "3709",
+			"Sveitarfélag": "Grundarfjarðarbær",
+			"Fjöldi - 1 des 2018": "876",
+			"Fjöldi - 1. des. 2019": "877",
+			"Fjöldi - 1. feb. 2020": "871",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "-6",
+			"%": "-0.68%"
+		},
+		{
+			"Sveitarfélagsnúmer": "3710",
+			"Sveitarfélag": "Helgafellssveit",
+			"Fjöldi - 1 des 2018": "63",
+			"Fjöldi - 1. des. 2019": "65",
+			"Fjöldi - 1. feb. 2020": "64",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "-1",
+			"%": "-1.54%"
+		},
+		{
+			"Sveitarfélagsnúmer": "3711",
+			"Sveitarfélag": "Stykkishólmsbær",
+			"Fjöldi - 1 des 2018": "1196",
+			"Fjöldi - 1. des. 2019": "1211",
+			"Fjöldi - 1. feb. 2020": "1212",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "1",
+			"%": "0.08%"
+		},
+		{
+			"Sveitarfélagsnúmer": "3713",
+			"Sveitarfélag": "Eyja- og Miklaholtshreppur",
+			"Fjöldi - 1 des 2018": "117",
+			"Fjöldi - 1. des. 2019": "124",
+			"Fjöldi - 1. feb. 2020": "126",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "2",
+			"%": "1.61%"
+		},
+		{
+			"Sveitarfélagsnúmer": "3714",
+			"Sveitarfélag": "Snæfellsbær",
+			"Fjöldi - 1 des 2018": "1680",
+			"Fjöldi - 1. des. 2019": "1677",
+			"Fjöldi - 1. feb. 2020": "1689",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "12",
+			"%": "0.72%"
+		},
+		{
+			"Sveitarfélagsnúmer": "3811",
+			"Sveitarfélag": "Dalabyggð",
+			"Fjöldi - 1 des 2018": "670",
+			"Fjöldi - 1. des. 2019": "634",
+			"Fjöldi - 1. feb. 2020": "633",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "-1",
+			"%": "-0.16%"
+		}
+	],
+
+	"Vesturfirðir": [{
+			"Sveitarfélagsnúmer": "Vestfirðir ",
+			"Sveitarfélag": "",
+			"Fjöldi - 1 des 2018": "7064",
+			"Fjöldi - 1. des. 2019": "7118",
+			"Fjöldi - 1. feb. 2020": "7126",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "8",
+			"%": "0.11%"
+		},
+		{
+			"Sveitarfélagsnúmer": "4100",
+			"Sveitarfélag": "Bolungarvíkurkaupstaður",
+			"Fjöldi - 1 des 2018": "946",
+			"Fjöldi - 1. des. 2019": "959",
+			"Fjöldi - 1. feb. 2020": "961",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "2",
+			"%": "0.21%"
+		},
+		{
+			"Sveitarfélagsnúmer": "4200",
+			"Sveitarfélag": "Ísafjarðarbær",
+			"Fjöldi - 1 des 2018": "3813",
+			"Fjöldi - 1. des. 2019": "3810",
+			"Fjöldi - 1. feb. 2020": "3827",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "17",
+			"%": "0.45%"
+		},
+		{
+			"Sveitarfélagsnúmer": "4502",
+			"Sveitarfélag": "Reykhólahreppur",
+			"Fjöldi - 1 des 2018": "257",
+			"Fjöldi - 1. des. 2019": "262",
+			"Fjöldi - 1. feb. 2020": "262",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "0",
+			"%": "0.00%"
+		},
+		{
+			"Sveitarfélagsnúmer": "4604",
+			"Sveitarfélag": "Tálknafjarðarhreppur",
+			"Fjöldi - 1 des 2018": "259",
+			"Fjöldi - 1. des. 2019": "252",
+			"Fjöldi - 1. feb. 2020": "247",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "-5",
+			"%": "-1.98%"
+		},
+		{
+			"Sveitarfélagsnúmer": "4607",
+			"Sveitarfélag": "Vesturbyggð",
+			"Fjöldi - 1 des 2018": "996",
+			"Fjöldi - 1. des. 2019": "1020",
+			"Fjöldi - 1. feb. 2020": "1021",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "1",
+			"%": "0.10%"
+		},
+		{
+			"Sveitarfélagsnúmer": "4803",
+			"Sveitarfélag": "Súðavíkurhreppur",
+			"Fjöldi - 1 des 2018": "199",
+			"Fjöldi - 1. des. 2019": "209",
+			"Fjöldi - 1. feb. 2020": "203",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "-6",
+			"%": "-2.87%"
+		},
+		{
+			"Sveitarfélagsnúmer": "4901",
+			"Sveitarfélag": "Árneshreppur",
+			"Fjöldi - 1 des 2018": "40",
+			"Fjöldi - 1. des. 2019": "43",
+			"Fjöldi - 1. feb. 2020": "43",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "0",
+			"%": "0.00%"
+		},
+		{
+			"Sveitarfélagsnúmer": "4902",
+			"Sveitarfélag": "Kaldrananeshreppur",
+			"Fjöldi - 1 des 2018": "103",
+			"Fjöldi - 1. des. 2019": "109",
+			"Fjöldi - 1. feb. 2020": "106",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "-3",
+			"%": "-2.75%"
+		},
+		{
+			"Sveitarfélagsnúmer": "4911",
+			"Sveitarfélag": "Strandabyggð",
+			"Fjöldi - 1 des 2018": "451",
+			"Fjöldi - 1. des. 2019": "454",
+			"Fjöldi - 1. feb. 2020": "456",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "2",
+			"%": "0.44%"
+		}
+	],
+
+	"Norðurland vestra": [{
+			"Sveitarfélagsnúmer": "Norðurland vestra",
+			"Sveitarfélag": "",
+			"Fjöldi - 1 des 2018": "7227",
+			"Fjöldi - 1. des. 2019": "7327",
+			"Fjöldi - 1. feb. 2020": "7307",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "-20",
+			"%": "-0.27%"
+		},
+		{
+			"Sveitarfélagsnúmer": "5200",
+			"Sveitarfélag": "Sveitarfélagið Skagafjörður",
+			"Fjöldi - 1 des 2018": "3990",
+			"Fjöldi - 1. des. 2019": "4037",
+			"Fjöldi - 1. feb. 2020": "4026",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "-11",
+			"%": "-0.27%"
+		},
+		{
+			"Sveitarfélagsnúmer": "5508",
+			"Sveitarfélag": "Húnaþing vestra",
+			"Fjöldi - 1 des 2018": "1181",
+			"Fjöldi - 1. des. 2019": "1210",
+			"Fjöldi - 1. feb. 2020": "1208",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "-2",
+			"%": "-0.17%"
+		},
+		{
+			"Sveitarfélagsnúmer": "5604",
+			"Sveitarfélag": "Blönduósbær",
+			"Fjöldi - 1 des 2018": "935",
+			"Fjöldi - 1. des. 2019": "942",
+			"Fjöldi - 1. feb. 2020": "932",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "-10",
+			"%": "-1.06%"
+		},
+		{
+			"Sveitarfélagsnúmer": "5609",
+			"Sveitarfélag": "Sveitarfélagið Skagaströnd",
+			"Fjöldi - 1 des 2018": "459",
+			"Fjöldi - 1. des. 2019": "473",
+			"Fjöldi - 1. feb. 2020": "474",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "1",
+			"%": "0.21%"
+		},
+		{
+			"Sveitarfélagsnúmer": "5611",
+			"Sveitarfélag": "Skagabyggð",
+			"Fjöldi - 1 des 2018": "88",
+			"Fjöldi - 1. des. 2019": "90",
+			"Fjöldi - 1. feb. 2020": "90",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "0",
+			"%": "0.00%"
+		},
+		{
+			"Sveitarfélagsnúmer": "5612",
+			"Sveitarfélag": "Húnavatnshreppur",
+			"Fjöldi - 1 des 2018": "374",
+			"Fjöldi - 1. des. 2019": "370",
+			"Fjöldi - 1. feb. 2020": "373",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "3",
+			"%": "0.81%"
+		},
+		{
+			"Sveitarfélagsnúmer": "5706",
+			"Sveitarfélag": "Akrahreppur",
+			"Fjöldi - 1 des 2018": "200",
+			"Fjöldi - 1. des. 2019": "205",
+			"Fjöldi - 1. feb. 2020": "204",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "-1",
+			"%": "-0.49%"
+		}
+	],
+	"Norðurland eystra": [{
+			"Sveitarfélagsnúmer": "Norðurland eystra",
+			"Sveitarfélag": "",
+			"Fjöldi - 1 des 2018": "30441",
+			"Fjöldi - 1. des. 2019": "30596",
+			"Fjöldi - 1. feb. 2020": "30570",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "-26",
+			"%": "-0.08%"
+		},
+		{
+			"Sveitarfélagsnúmer": "6000",
+			"Sveitarfélag": "Akureyrarbær",
+			"Fjöldi - 1 des 2018": "18900",
+			"Fjöldi - 1. des. 2019": "19024",
+			"Fjöldi - 1. feb. 2020": "19009",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "-15",
+			"%": "-0.08%"
+		},
+		{
+			"Sveitarfélagsnúmer": "6100",
+			"Sveitarfélag": "Norðurþing",
+			"Fjöldi - 1 des 2018": "3050",
+			"Fjöldi - 1. des. 2019": "3111",
+			"Fjöldi - 1. feb. 2020": "3122",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "11",
+			"%": "0.35%"
+		},
+		{
+			"Sveitarfélagsnúmer": "6250",
+			"Sveitarfélag": "Fjallabyggð",
+			"Fjöldi - 1 des 2018": "2004",
+			"Fjöldi - 1. des. 2019": "2007",
+			"Fjöldi - 1. feb. 2020": "2011",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "4",
+			"%": "0.20%"
+		},
+		{
+			"Sveitarfélagsnúmer": "6400",
+			"Sveitarfélag": "Dalvíkurbyggð",
+			"Fjöldi - 1 des 2018": "1908",
+			"Fjöldi - 1. des. 2019": "1902",
+			"Fjöldi - 1. feb. 2020": "1898",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "-4",
+			"%": "-0.21%"
+		},
+		{
+			"Sveitarfélagsnúmer": "6513",
+			"Sveitarfélag": "Eyjafjarðarsveit",
+			"Fjöldi - 1 des 2018": "1041",
+			"Fjöldi - 1. des. 2019": "1079",
+			"Fjöldi - 1. feb. 2020": "1077",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "-2",
+			"%": "-0.19%"
+		},
+		{
+			"Sveitarfélagsnúmer": "6515",
+			"Sveitarfélag": "Hörgársveit",
+			"Fjöldi - 1 des 2018": "613",
+			"Fjöldi - 1. des. 2019": "621",
+			"Fjöldi - 1. feb. 2020": "624",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "3",
+			"%": "0.48%"
+		},
+		{
+			"Sveitarfélagsnúmer": "6601",
+			"Sveitarfélag": "Svalbarðsstrandarhreppur",
+			"Fjöldi - 1 des 2018": "489",
+			"Fjöldi - 1. des. 2019": "482",
+			"Fjöldi - 1. feb. 2020": "481",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "-1",
+			"%": "-0.21%"
+		},
+		{
+			"Sveitarfélagsnúmer": "6602",
+			"Sveitarfélag": "Grýtubakkahreppur",
+			"Fjöldi - 1 des 2018": "371",
+			"Fjöldi - 1. des. 2019": "370",
+			"Fjöldi - 1. feb. 2020": "376",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "6",
+			"%": "1.62%"
+		},
+		{
+			"Sveitarfélagsnúmer": "6607",
+			"Sveitarfélag": "Skútustaðahreppur",
+			"Fjöldi - 1 des 2018": "509",
+			"Fjöldi - 1. des. 2019": "507",
+			"Fjöldi - 1. feb. 2020": "490",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "-17",
+			"%": "-3.35%"
+		},
+		{
+			"Sveitarfélagsnúmer": "6611",
+			"Sveitarfélag": "Tjörneshreppur",
+			"Fjöldi - 1 des 2018": "55",
+			"Fjöldi - 1. des. 2019": "54",
+			"Fjöldi - 1. feb. 2020": "54",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "0",
+			"%": "0.00%"
+		},
+		{
+			"Sveitarfélagsnúmer": "6612",
+			"Sveitarfélag": "Þingeyjarsveit",
+			"Fjöldi - 1 des 2018": "903",
+			"Fjöldi - 1. des. 2019": "864",
+			"Fjöldi - 1. feb. 2020": "859",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "-5",
+			"%": "-0.58%"
+		},
+		{
+			"Sveitarfélagsnúmer": "6706",
+			"Sveitarfélag": "Svalbarðshreppur",
+			"Fjöldi - 1 des 2018": "89",
+			"Fjöldi - 1. des. 2019": "93",
+			"Fjöldi - 1. feb. 2020": "93",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "0",
+			"%": "0.00%"
+		},
+		{
+			"Sveitarfélagsnúmer": "6709",
+			"Sveitarfélag": "Langanesbyggð",
+			"Fjöldi - 1 des 2018": "509",
+			"Fjöldi - 1. des. 2019": "482",
+			"Fjöldi - 1. feb. 2020": "476",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "-6",
+			"%": "-1.24%"
+		}
+	],
+
+	"Austurland": [{
+			"Sveitarfélagsnúmer": "Austurland",
+			"Sveitarfélag": "",
+			"Fjöldi - 1 des 2018": "10691",
+			"Fjöldi - 1. des. 2019": "10740",
+			"Fjöldi - 1. feb. 2020": "10741",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "1",
+			"%": "0.01%"
+		},
+		{
+			"Sveitarfélagsnúmer": "7000",
+			"Sveitarfélag": "Seyðisfjarðarkaupstaður",
+			"Fjöldi - 1 des 2018": "692",
+			"Fjöldi - 1. des. 2019": "682",
+			"Fjöldi - 1. feb. 2020": "680",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "-2",
+			"%": "-0.29%"
+		},
+		{
+			"Sveitarfélagsnúmer": "7300",
+			"Sveitarfélag": "Fjarðabyggð",
+			"Fjöldi - 1 des 2018": "5081",
+			"Fjöldi - 1. des. 2019": "5073",
+			"Fjöldi - 1. feb. 2020": "5080",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "7",
+			"%": "0.14%"
+		},
+		{
+			"Sveitarfélagsnúmer": "7502",
+			"Sveitarfélag": "Vopnafjarðarhreppur",
+			"Fjöldi - 1 des 2018": "657",
+			"Fjöldi - 1. des. 2019": "656",
+			"Fjöldi - 1. feb. 2020": "661",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "5",
+			"%": "0.76%"
+		},
+		{
+			"Sveitarfélagsnúmer": "7505",
+			"Sveitarfélag": "Fljótsdalshreppur",
+			"Fjöldi - 1 des 2018": "73",
+			"Fjöldi - 1. des. 2019": "86",
+			"Fjöldi - 1. feb. 2020": "86",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "0",
+			"%": "0.00%"
+		},
+		{
+			"Sveitarfélagsnúmer": "7509",
+			"Sveitarfélag": "Borgarfjarðarhreppur",
+			"Fjöldi - 1 des 2018": "109",
+			"Fjöldi - 1. des. 2019": "122",
+			"Fjöldi - 1. feb. 2020": "121",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "-1",
+			"%": "-0.82%"
+		},
+		{
+			"Sveitarfélagsnúmer": "7617",
+			"Sveitarfélag": "Djúpavogshreppur",
+			"Fjöldi - 1 des 2018": "474",
+			"Fjöldi - 1. des. 2019": "501",
+			"Fjöldi - 1. feb. 2020": "503",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "2",
+			"%": "0.40%"
+		},
+		{
+			"Sveitarfélagsnúmer": "7620",
+			"Sveitarfélag": "Fljótsdalshérað",
+			"Fjöldi - 1 des 2018": "3605",
+			"Fjöldi - 1. des. 2019": "3620",
+			"Fjöldi - 1. feb. 2020": "3610",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "-10",
+			"%": "-0.28%"
+		}
+	],
+	"Suðurland": [{
+			"Sveitarfélagsnúmer": "Suðurland",
+			"Sveitarfélag": "",
+			"Fjöldi - 1 des 2018": "29690",
+			"Fjöldi - 1. des. 2019": "30829",
+			"Fjöldi - 1. feb. 2020": "30878",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "49",
+			"%": "0.16%"
+		},
+		{
+			"Sveitarfélagsnúmer": "7708",
+			"Sveitarfélag": "Sveitarfélagið Hornafjörður",
+			"Fjöldi - 1 des 2018": "2381",
+			"Fjöldi - 1. des. 2019": "2435",
+			"Fjöldi - 1. feb. 2020": "2434",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "-1",
+			"%": "-0.04%"
+		},
+		{
+			"Sveitarfélagsnúmer": "8000",
+			"Sveitarfélag": "Vestmannaeyjabær",
+			"Fjöldi - 1 des 2018": "4304",
+			"Fjöldi - 1. des. 2019": "4358",
+			"Fjöldi - 1. feb. 2020": "4361",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "3",
+			"%": "0.07%"
+		},
+		{
+			"Sveitarfélagsnúmer": "8200",
+			"Sveitarfélag": "Sveitarfélagið Árborg",
+			"Fjöldi - 1 des 2018": "9447",
+			"Fjöldi - 1. des. 2019": "10055",
+			"Fjöldi - 1. feb. 2020": "10071",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "16",
+			"%": "0.16%"
+		},
+		{
+			"Sveitarfélagsnúmer": "8508",
+			"Sveitarfélag": "Mýrdalshreppur",
+			"Fjöldi - 1 des 2018": "694",
+			"Fjöldi - 1. des. 2019": "717",
+			"Fjöldi - 1. feb. 2020": "718",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "1",
+			"%": "0.14%"
+		},
+		{
+			"Sveitarfélagsnúmer": "8509",
+			"Sveitarfélag": "Skaftárhreppur",
+			"Fjöldi - 1 des 2018": "585",
+			"Fjöldi - 1. des. 2019": "626",
+			"Fjöldi - 1. feb. 2020": "624",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "-2",
+			"%": "-0.32%"
+		},
+		{
+			"Sveitarfélagsnúmer": "8610",
+			"Sveitarfélag": "Ásahreppur",
+			"Fjöldi - 1 des 2018": "249",
+			"Fjöldi - 1. des. 2019": "251",
+			"Fjöldi - 1. feb. 2020": "259",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "8",
+			"%": "3.19%"
+		},
+		{
+			"Sveitarfélagsnúmer": "8613",
+			"Sveitarfélag": "Rangárþing eystra",
+			"Fjöldi - 1 des 2018": "1920",
+			"Fjöldi - 1. des. 2019": "1960",
+			"Fjöldi - 1. feb. 2020": "1956",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "-4",
+			"%": "-0.20%"
+		},
+		{
+			"Sveitarfélagsnúmer": "8614",
+			"Sveitarfélag": "Rangárþing ytra",
+			"Fjöldi - 1 des 2018": "1630",
+			"Fjöldi - 1. des. 2019": "1684",
+			"Fjöldi - 1. feb. 2020": "1687",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "3",
+			"%": "0.18%"
+		},
+		{
+			"Sveitarfélagsnúmer": "8710",
+			"Sveitarfélag": "Hrunamannahreppur",
+			"Fjöldi - 1 des 2018": "791",
+			"Fjöldi - 1. des. 2019": "817",
+			"Fjöldi - 1. feb. 2020": "818",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "1",
+			"%": "0.12%"
+		},
+		{
+			"Sveitarfélagsnúmer": "8716",
+			"Sveitarfélag": "Hveragerðisbær",
+			"Fjöldi - 1 des 2018": "2625",
+			"Fjöldi - 1. des. 2019": "2697",
+			"Fjöldi - 1. feb. 2020": "2718",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "21",
+			"%": "0.78%"
+		},
+		{
+			"Sveitarfélagsnúmer": "8717",
+			"Sveitarfélag": "Sveitarfélagið Ölfus",
+			"Fjöldi - 1 des 2018": "2157",
+			"Fjöldi - 1. des. 2019": "2273",
+			"Fjöldi - 1. feb. 2020": "2272",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "-1",
+			"%": "-0.04%"
+		},
+		{
+			"Sveitarfélagsnúmer": "8719",
+			"Sveitarfélag": "Grímsnes- og Grafningshreppur",
+			"Fjöldi - 1 des 2018": "489",
+			"Fjöldi - 1. des. 2019": "494",
+			"Fjöldi - 1. feb. 2020": "502",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "8",
+			"%": "1.62%"
+		},
+		{
+			"Sveitarfélagsnúmer": "8720",
+			"Sveitarfélag": "Skeiða- og Gnúpverjahreppur",
+			"Fjöldi - 1 des 2018": "639",
+			"Fjöldi - 1. des. 2019": "611",
+			"Fjöldi - 1. feb. 2020": "609",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "-2",
+			"%": "-0.33%"
+		},
+		{
+			"Sveitarfélagsnúmer": "8721",
+			"Sveitarfélag": "Bláskógabyggð",
+			"Fjöldi - 1 des 2018": "1115",
+			"Fjöldi - 1. des. 2019": "1162",
+			"Fjöldi - 1. feb. 2020": "1164",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "2",
+			"%": "0.17%"
+		},
+		{
+			"Sveitarfélagsnúmer": "8722",
+			"Sveitarfélag": "Flóahreppur",
+			"Fjöldi - 1 des 2018": "664",
+			"Fjöldi - 1. des. 2019": "689",
+			"Fjöldi - 1. feb. 2020": "685",
+			"Fjölgun m/ 1.des 19 og 1. feb 20": "-4",
+			"%": "-0.58%"
+		}
+	],
+	"Samtals": [{
+		"Sveitarfélagsnúmer": "Samtals",
+		"Sveitarfélag": "",
+		"Fjöldi - 1 des 2018": "356,671",
+		"Fjöldi - 1. des. 2019": "364,128",
+		"Fjöldi - 1. feb. 2020": "364,889",
+		"Fjölgun m/ 1.des 19 og 1. feb 20": "761",
+		"%": "0.2%"
+		}
+	]
+}

@@ -1,0 +1,3 @@
+find({"Sveitarfélag": ""})
+find({"Fjöldi - 1 des 2018": "996"})
+find({"Sveitarfélagsnúmer": "6000"})
