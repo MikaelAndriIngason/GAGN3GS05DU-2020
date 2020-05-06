@@ -27,8 +27,20 @@ Breytti gögnunum í Json og síðan í csv, reyndi aftur að nota MongoDB (virk
 **2b**  
 Var ekki viss hvernig ég átti að raða/hopa hlutunum upp svo ég skipti salnum niðir í: svið, 1 svalir, 2 svalir, 3 svalir. Json skráin byjaði að verða hæg eftir að ég var byrjaður að fara upp í 6,000 línur, síðan þegar ég var búinn þá lét validatorinn mig vita að það var einhver villa, svo ég leyfði síðuni að leiðrétta mistökin (og er ekki viss hvort að það mögulega skemmdi eitthvað). Hér eru [fyrirspurninar!](https://github.com/MikaelAndriIngason/GAGN3GS05DU-2020/blob/master/Verkefni%202/2b_fyrirspurnir.txt)
 
+**2c**  
+Gat ekki sett gögnin í MongoDB, en seinni parturinn var frekar léttur (allavegana ef maður gerði verkefni 3-4 á undan).
+
 ***
 # Verkefni 3
+
+**3a**  
+Skildi ekki alveg hvernig þetta verkefni virkaði fyrst, en ég vona allavegana að ég hafi gert rétt! Ég fann gögn, fór yfir þau, reyndi að nota þau í R og síðan skrifaði niður stutt [yfirlit.](https://github.com/MikaelAndriIngason/GAGN3GS05DU-2020/blob/master/Verkefni%203/verkefni_3a.txt)
+
+**3b**  
+Var í smá erfiðleikum að nota Dplyr, reyndi að nota það eins mikið og ég gat, þannig að þetta er blanda af dplyr og standard R.
+
+**3c**  
+Notaði gögnin úr verkefni 4b, verkefnin tvö voru mjög svipuð svo ég aðalega breytti gögnunum bara í [Json](https://github.com/MikaelAndriIngason/GAGN3GS05DU-2020/blob/master/Verkefni%203/3c_covid_19_stats.json) fyrir þetta verkefni.
 
 ***
 # Verkefni 4
