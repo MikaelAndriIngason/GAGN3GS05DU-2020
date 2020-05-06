@@ -44,3 +44,9 @@ Notaði gögnin úr verkefni 4b, verkefnin tvö voru mjög svipuð svo ég aðal
 
 ***
 # Verkefni 4
+
+**4a**  
+Verkefnið var frekar auðvelt, var í smá erfiðleikum fyrst að dataframe-ið vildi ekki taka inn gögnin vegna þess að þau pössuðu ekki, náði að laga það, síðan henti ég edit() falli þar in til að geta breytt gögnunum.
+
+**4b**  
+ég var í miklum erfiðleikum með þetta verkefni fyrst, en þegar gögnin loksins byrjuðu að koma inn þá varð þetta léttara... þangað til að ég þurfti að gera plot(), eftir langan tíma að leita að lausn þá loksins náði ég að láta það virka.
